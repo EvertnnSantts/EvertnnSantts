@@ -4,22 +4,17 @@
 
 Desenvolvedor Web | Especialista em JavaScript e MySQL | Estudante de Análise e Desenvolvimento de Sistemas na UNIFACS | Focado na criação de sistemas robustos e eficientes | Apaixonado por tecnologias e inovação, buscando sempre aprimorar meus conhecimentos e habilidades no desenvolvimento de soluções tecnológicas
 
-<p align="left">
-    <a href="https://github.com/EvertnnSantts?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/EvertnnSantts?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/EvertnnSantts?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/EvertnnSantts?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+ <div>
+   <a href="https://github.com/EduardoBelinelli">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvertnnSantts&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertnnSantts&layout=compact&langs_count=6&theme=dark"/>
+
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
 ---
 
