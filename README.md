@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Everton Ferreira
+# Everton Ferreira
 
 **`Desenvolvedor FullStack`**
 
