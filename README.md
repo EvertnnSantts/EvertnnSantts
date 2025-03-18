@@ -5,7 +5,7 @@
 Desenvolvedor Web | Especialista em JavaScript e MySQL | Estudante de Análise e Desenvolvimento de Sistemas na UNIFACS | Focado na criação de sistemas robustos e eficientes | Apaixonado por tecnologias e inovação, buscando sempre aprimorar meus conhecimentos e habilidades no desenvolvimento de soluções tecnológicas
 
  <div>
-   <a href="https://github.com/EduardoBelinelli">
+   <a href="https://github.com/EvertnnSantts">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvertnnSantts&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertnnSantts&layout=compact&langs_count=6&theme=dark"/>
 
