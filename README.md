@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Desenvolvedor Web | Especialista em JavaScript e MySQL | Focado na criação de sistemas robustos e eficientes | Apaixonado por tecnologias e inovação, buscando sempre aprimorar meus conhecimentos e habilidades no desenvolvimento de soluções tecnológicas
+Desenvolvedor Web | Especialista em JavaScript e MySQL 
 
  <div>
      <a href="https://github.com/EvertnnSantts">
