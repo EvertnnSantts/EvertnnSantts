@@ -118,17 +118,6 @@ const everton = {
 
 ---
 
-## 📌 Repositórios em Destaque
-
-<div align="center">
-
-<!-- 🔧 Substitua NOME_DO_REPO_1 e NOME_DO_REPO_2 pelos seus repositórios reais -->
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=EvertnnSantts&repo=NOME_DO_REPO_1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e)](https://github.com/EvertnnSantts?tab=repositories)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=EvertnnSantts&repo=NOME_DO_REPO_2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e)](https://github.com/EvertnnSantts?tab=repositories)
-
-</div>
-
 <div align="center">
 
 [![Ver todos os repos](https://img.shields.io/badge/🗂️_Ver_todos_os_projetos-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=161b22)](https://github.com/EvertnnSantts?tab=repositories)
