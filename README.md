@@ -102,14 +102,6 @@ const everton = {
 
 ---
 
-## 📈 Atividade de Contribuições
-
-<div align="center">
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=EvertnnSantts&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
 <div align="center">
 
 [![Ver todos os repos](https://img.shields.io/badge/🗂️_Ver_todos_os_projetos-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=161b22)](https://github.com/EvertnnSantts?tab=repositories)
